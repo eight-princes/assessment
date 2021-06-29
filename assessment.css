@@ -1,0 +1,27 @@
+body {
+    background-color: #86a397;
+    color: #afe27b;
+
+}
+ body {
+        font-family:'Franklin Gothic Medium', 'MS UI Gothic', Arial, sans-serif;
+    }
+body {
+    background-color: "04a6eb";
+    color: #afe27b;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+button {
+    padding: 5px 20px;
+    background-color: #b5b733;
+    
+    color: rgb(252, 252, 252);
+    font-weight: bold;
+
+  }
+  input {
+    height: 25px;    
+  }
